@@ -139,7 +139,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -148,7 +147,6 @@ $RECYCLE.BIN/
 
 # Local History for Visual Studio Code
 .history/
-
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Node,Windows,VisualStudioCode
 .vercel
 .env*.local
